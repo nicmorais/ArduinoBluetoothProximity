@@ -14,7 +14,7 @@ Wiring:
 
 There's no need to connect TX and RX pins.
 
-Also, the [Bluetooth Terminal App]([https://play.google.com/store/apps/details?id=Qwerty.BluetoothTerminal&hl=pt_BR](https://play.google.com/store/apps/details?id=Qwerty.BluetoothTerminal&hl=pt_BR)) must be installed on a phone to pair with HC-05
+Also, the [Bluetooth Terminal App](https://play.google.com/store/apps/details?id=Qwerty.BluetoothTerminal&hl=pt_BR) must be installed on a phone to pair with HC-05
 ##
 Made by:
 * Lucas Gomes de Oliveira Santos
